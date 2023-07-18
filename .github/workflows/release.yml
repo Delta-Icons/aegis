@@ -1,0 +1,36 @@
+name: Release
+run-name: Release @ Delta Aegis Icons - ${{ env.CURRENT_DATE }}
+
+on:
+  workflow_dispatch:
+
+env:
+  zipname:  delta-aegis-icons.zip
+
+jobs:
+  release:
+    name: Release
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Get current date
+        run: echo "CURRENT_DATE=$(date +'%Y%m%d')" >> $GITHUB_ENV
+
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.11"
+    
+      - name: Execute py script
+        run: python make-pack.py gen --output ${{ env.zipname }} --version ${{ env.CURRENT_DATE }}
+
+      - name: Create a GitHub release
+        uses: softprops/action-gh-release@v0.1.15
+        with:
+          files: ${{ env.zipname }}
+          name: v${{ env.CURRENT_DATE }}
+          tag_name: v${{ env.CURRENT_DATE }}
+      
