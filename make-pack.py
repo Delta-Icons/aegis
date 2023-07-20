@@ -8,8 +8,8 @@ import zipfile
 
 def _do_gen_def(args):
     pack = {
-        "uuid": "c1018b93-4e8c-490a-b575-30dde62a833e",
-        "name": "aegis-icons",
+        "uuid": "18400066-2748-11ee-be56-0242ac120002",
+        "name": "delta-aegis-icons",
         "version": 0,
         "icons": []
     }
