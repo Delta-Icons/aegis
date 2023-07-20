@@ -1,5 +1,5 @@
 name: Release
-run-name: Release @ Delta Aegis Icons - ${{ env.CURRENT_DATE }}
+run-name: Release @ Delta Aegis Icons - ${{ github.sha }}
 
 on:
   workflow_dispatch:
