@@ -1,12 +1,13 @@
 <p align="center">
-    <a href="https://aegis-icons.github.io/">
-        <img src="https://raw.githubusercontent.com/aegis-icons/design-assets/master/readme-banner.svg" width="350" />
-    </a>
+    <img src="https://raw.githubusercontent.com/Delta-Icons/android/master/resources/vectors/figma/icon.svg" width="350" />
+    <img src="https://raw.githubusercontent.com/Delta-Icons/android/master/resources/vectors/aegis_auth.svg" width="350" />
 </p>
 
 <p align="center">
-    <i>Unofficial monochrome-styled 2FA icons for open source Android authenticator <a href="https://github.com/beemdevelopment/Aegis">Aegis</a>.</i>
+    <b>Delta version of the unofficial monochrome-styled 2FA icons for open source Android authenticator <a href="https://github.com/beemdevelopment/Aegis">Aegis</a>.</b>
 </p>
+
+#Original README below
 
 <p align="center">
     <a href="https://aegis-icons.github.io/">
