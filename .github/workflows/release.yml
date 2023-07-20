@@ -35,7 +35,9 @@ jobs:
           python-version: "3.11"
     
       - name: Execute py script
-        run: python make-pack.py gen --output ${{ env.zipname }} --version ${{ env.CURRENT_DATE }}
+        run: |
+          python make-pack.py gen-def 
+          python make-pack.py gen --output ${{ env.zipname }} --version ${{ env.CURRENT_DATE }}
 
       - name: Create a GitHub release
         uses: softprops/action-gh-release@v0.1.15
