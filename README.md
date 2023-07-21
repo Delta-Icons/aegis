@@ -1,7 +1,7 @@
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/Delta-Icons/android/master/resources/vectors/figma/icon.svg" width="200" />
-    <img src="https://raw.githubusercontent.com/Delta-Icons/android/master/resources/vectors/aegis_auth.svg" width="200" />
+    <img src="https://raw.githubusercontent.com/Delta-Icons/aegis-icons/master/.github/delta_logo.svg" width="200" />
+    <img src="https://raw.githubusercontent.com/Delta-Icons/aegis-icons/master/.github/aegis_logo.svg" width="200" />
 </p>
 
 <p align="center">
