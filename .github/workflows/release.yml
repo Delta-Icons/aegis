@@ -33,11 +33,17 @@ jobs:
         uses: actions/setup-python@v4
         with:
           python-version: "3.11"
+
+      - name: Execute py script
+        run: python make-pack.py gen-def
+
+      - name: Commit json
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Update pack.json
     
       - name: Execute py script
-        run: |
-          python make-pack.py gen-def 
-          python make-pack.py gen --output ${{ env.zipname }} --version ${{ env.CURRENT_DATE }}
+        run: python make-pack.py gen --output ${{ env.zipname }} --version ${{ env.CURRENT_DATE }}
 
       - name: Create a GitHub release
         uses: softprops/action-gh-release@v0.1.15
