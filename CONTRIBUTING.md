@@ -162,7 +162,7 @@ Before creating icons, you have decide which way you want to submit your icon cr
     - [Creating branches in GitHub Desktop](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/making-changes-in-a-branch/managing-branches#creating-a-branch) (remember to also [publish that branch](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/making-changes-in-a-branch/managing-branches#publishing-a-branch) after creating one).
   - When icon is finished, fixed, tweaked or have any new changes, **create new commit** ([creating new commits in GitHub Desktop](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/making-changes-in-a-branch/committing-and-reviewing-changes-to-your-project#write-a-commit-message-and-push-your-changes)).
   - And when you're finally ready to submit for aegis-icons, **[create a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request).**
-    - [Quick link for aegis-icons's PR submission page](https://github.com/aegis-icons/aegis-icons/compare).
+    - [Quick link for aegis-icons's PR submission page](https://github.com/Delta-Icons/aegis-icons/compare).
 
 - **Option 2:** Submit your icon for review by [opening a new issue](../../issues/new/choose) (select "Icon submission") and add your file(s) / info.
   - This is the easiest option, but can become more complicated route later on if new changes are needed.
@@ -290,7 +290,7 @@ When making icons, download and use provided [templates](/_templates).
 - :warning: **Only when absolutely necessary:** if there's no brand guidelines and **only found white versions** of the logo, pick some color from website (preferably from header or site's most used color).
 - **If icon you're making is using dark background, you have to make** `bg.var` **icon version as well.**
   - Or opposite, **if background is too bright for white logo, then make** `fg.var` **icon version.**
-  - Check with ["BG colors to avoid" SVG](https://github.com/aegis-icons/aegis-icons/blob/master/_templates/z_bg-colors_to_avoid.svg) if `bg.var` version is needed.
+  - Check with ["BG colors to avoid" SVG](https://github.com/Delta-Icons/aegis-icons/blob/master/_templates/z_bg-colors_to_avoid.svg) if `bg.var` version is needed.
 - For *generic icons*, use templates (`ai_template_generic.ait` or `svg_template_generic.svg`) and **don't change the BG colors!**
   - [More info at the "generic icons" section](#generic-icons).
   
@@ -302,7 +302,7 @@ When making icons, download and use provided [templates](/_templates).
   - **Examples:** [primary Steam icon](https://user-images.githubusercontent.com/3540275/85153557-042e4580-b25f-11ea-85ff-7cb883f977d4.png), [Steam `bg.var` icon](https://user-images.githubusercontent.com/3540275/85153530-fbd60a80-b25e-11ea-9197-d7400eeec74f.png).
   - *Use brighter alternative background.*
   - If there's no brand guidelines for alternative colors, check the website or app to see what other colors there might be.
-  - Check with ["BG colors to avoid" SVG](https://github.com/aegis-icons/aegis-icons/blob/master/_templates/z_bg-colors_to_avoid.svg) if `bg.var` version is needed.
+  - Check with ["BG colors to avoid" SVG](https://github.com/Delta-Icons/aegis-icons/blob/master/_templates/z_bg-colors_to_avoid.svg) if `bg.var` version is needed.
 
 - `fg.var` icons are made when **primary icon's BG color is too bright and hard to see with white logo.**
   - **Examples:** [primary Snapchat icon](https://user-images.githubusercontent.com/3540275/83945146-6162d980-a811-11ea-8910-9e93ff65e804.png), [Snapchat `fg.var` icon](https://user-images.githubusercontent.com/3540275/151216951-ed34ea5e-d443-4e72-864e-56595e9a32c5.png). 
@@ -310,7 +310,7 @@ When making icons, download and use provided [templates](/_templates).
   
 - `fg.bg.var` is combination of both variations, for edge cases **when** `bg.var` **BG color is too bright and makes white logo hard to see.**
   - :warning: **Only make these if absolutely necessary!** Find better BG color for `bg.var` if possible to avoid making these.
-    - Check with ["BG colors to avoid" SVG](https://github.com/aegis-icons/aegis-icons/blob/master/_templates/z_bg-colors_to_avoid.svg) if `fg.bg.var` version is needed.
+    - Check with ["BG colors to avoid" SVG](https://github.com/Delta-Icons/aegis-icons/blob/master/_templates/z_bg-colors_to_avoid.svg) if `fg.bg.var` version is needed.
   - **Examples:** [Lichess `bg.var` icon](https://user-images.githubusercontent.com/3540275/151090580-9b4a3bf2-7221-493c-b71c-597f52a0666b.png), [Lichess `fg.bg.var` icon](https://user-images.githubusercontent.com/3540275/151090581-0898b5e6-7df7-47e7-978e-3466a21a52b0.png)
   - *Use black* (`#000000`) *as foreground color for* `bg.var` *version.*
   
@@ -358,7 +358,7 @@ Next, do SVG compression & cleanup.
   ```console
   svgo --multipass --pretty --indent 3 -f "input/folder/path/here" -o "output/folder/path/here"
   ```
-  (Or if you're in Windows, we have [batch file](https://github.com/aegis-icons/aegis-icons/blob/master/_compress/.1_svgo_prettify-svg.bat) for this).
+  (Or if you're in Windows, we have [batch file](https://github.com/Delta-Icons/aegis-icons/blob/master/_compress/.1_svgo_prettify-svg.bat) for this).
 
 *If you don't know how to use command line:*
 - Use [SVGOMG](https://jakearchibald.github.io/svgomg/)
@@ -451,7 +451,7 @@ Instead, PNGs are only made when noticing problems with SVG on Aegis and are add
 
 Because of the JSON update process, currently only the maintainer ([@krisu5](https://github.com/krisu5)) is allowed to make changes to JSONs.
 
-If you want to suggest a change related to JSONs, [make a issue instead](https://github.com/aegis-icons/aegis-icons/issues/new/choose) (choose "Other").
+If you want to suggest a change related to JSONs, [make a issue instead](https://github.com/Delta-Icons/aegis-icons/issues/new/choose) (choose "Other").
 
 ## Resources
 Resources marked with star (:star:) are recommended / most used by the maintainers.
@@ -538,8 +538,8 @@ NOTE: remember to link this section in the TOC when ready.
 1. App / site related requests has to **have Aegis-compatible 2FA support** one way or another, this project does not make icons outside of Aegis usage.
    - Don't lie, we always double-check if requested service has 2FA support. You can add proof for the existence of Aegis-compatible 2FA to the issue form's "Proof of the Aegis-compatible 2FA" section.
      - For the similar icons for general purpose, check out [Simple Icons](https://simpleicons.org/) instead.
-2. **Check that icon you're about to request doesn't [already exist](https://aegis-icons.github.io/)** or opened / closed in the [issues](https://github.com/aegis-icons/aegis-icons/issues).
-   - Icon packs are updated monthly, not every time a new icon is created ([see the pack releases](https://github.com/aegis-icons/aegis-icons/releases)). Icons created after the latest pack update are downloadable on [the website](https://aegis-icons.github.io/).
+2. **Check that icon you're about to request doesn't [already exist](https://delta-icons.github.io/)** or opened / closed in the [issues](https://github.com/Delta-Icons/aegis-icons/issues).
+   - Icon packs are updated monthly, not every time a new icon is created ([see the pack releases](https://github.com/Delta-Icons/aegis-icons/releases)). Icons created after the latest pack update are downloadable on [the website](https://delta-icons.github.io/).
 3. Read the issue form **carefully** and **follow the instructions.**
 4. Don't open **more then 5 icon request issues** at the same time.
    - You can request more after **all** of your current requests are filled.

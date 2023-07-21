@@ -117,7 +117,7 @@ Time to time, we clean up the icon pack by removing icons from the pack for vari
 
 The version number is the date that it was builded.
 
-In the [website](https://aegis-icons.github.io/) or [GitHub release pages](https://github.com/aegis-icons/aegis-icons/releases/latest), it's in the `YYYY-MM-DD` format (4-Digit Year, 2-Digit Month, 2-Digit Day).
+In the [website](https://delta-icons.github.io/) or [GitHub release pages](https://github.com/Delta-Icons/aegis-icons/releases/latest), it's in the `vYYYYMMDD` format (4-Digit Year, 2-Digit Month, 2-Digit Day).
 
 In the icon pack file, it's the same format minus the dashes.
 
@@ -128,7 +128,7 @@ In the icon pack file, it's the same format minus the dashes.
 
 *Requirements: [Python version 3 (and up)](https://www.python.org/downloads/) installed.*
 
-First, clone / fork the git repo or [download the repo as ZIP](https://github.com/aegis-icons/aegis-icons/archive/refs/heads/master.zip) (unzip the ZIP file, if you download it as ZIP).
+First, clone / fork the git repo or [download the repo as ZIP](https://github.com/Delta-Icons/aegis-icons/archive/refs/heads/master.zip) (unzip the ZIP file, if you download it as ZIP).
 
 In **Windows**: 
 - Go to `/aegis-icons/_compress/` directory

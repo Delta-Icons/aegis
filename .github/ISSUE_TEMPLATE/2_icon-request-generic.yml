@@ -6,7 +6,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        ### :loudspeaker: [Read our issue guidelines first](https://github.com/aegis-icons/aegis-icons/blob/master/CONTRIBUTING.md#issue-guidelines) if you haven't already!
+        ### :loudspeaker: [Read our issue guidelines first](https://github.com/Delta-Icons/aegis-icons/blob/master/CONTRIBUTING.md#issue-guidelines) if you haven't already!
         :angry: **If you don't read / follow the issue guidelines**, your issue(s) might **get rejected** and, *in the worse case*, **get you banned.**
         *(Issue guidelines was last updated on: **2022-08-18**).*
         
@@ -30,5 +30,5 @@ body:
     attributes:
       label: Confirmation
       options:
-        - label: I have read and followed the [issue guidelines](https://github.com/aegis-icons/aegis-icons/blob/master/CONTRIBUTING.md#issue-guidelines) & issue form.
+        - label: I have read and followed the [issue guidelines](https://github.com/Delta-Icons/aegis-icons/blob/master/CONTRIBUTING.md#issue-guidelines) & issue form.
           required: true

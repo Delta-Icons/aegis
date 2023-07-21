@@ -6,7 +6,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        ### :loudspeaker: Read and carefully follow our [CONTRIBUTING document](https://github.com/aegis-icons/aegis-icons/blob/master/CONTRIBUTING.md)!
+        ### :loudspeaker: Read and carefully follow our [CONTRIBUTING document](https://github.com/Delta-Icons/aegis-icons/blob/master/CONTRIBUTING.md)!
         :angry: **If you don't read & follow the CONTRIBUTING doc,** we might reject your icon submission(s) and, *in the worse case*, **get you banned.**
         
         *And do not send multiple icons in single issue, make multiple issues instead.*
@@ -75,7 +75,7 @@ body:
         
         **For example:**
         
-        - Direct URL of the press kit / branding page *(most prefered)*, logo vector file or [logo resource page](https://github.com/aegis-icons/aegis-icons/blob/master/CONTRIBUTING.md#logos)
+        - Direct URL of the press kit / branding page *(most prefered)*, logo vector file or [logo resource page](https://github.com/Delta-Icons/aegis-icons/blob/master/CONTRIBUTING.md#logos)
           - Examples:
             - `https://official-domain-of-the-app-or-site.com/press-kit-slash-branding-page`
             - `https://official-domain-of-the-app-or-site.com/logo.svg`
@@ -131,5 +131,5 @@ body:
     attributes:
       label: Confirmation
       options:
-        - label: I have **read and carefully followed** [CONTRIBUTING document](https://github.com/aegis-icons/aegis-icons/blob/master/CONTRIBUTING.md) during the creation of the icon.
+        - label: I have **read and carefully followed** [CONTRIBUTING document](https://github.com/Delta-Icons/aegis-icons/blob/master/CONTRIBUTING.md) during the creation of the icon.
           required: true

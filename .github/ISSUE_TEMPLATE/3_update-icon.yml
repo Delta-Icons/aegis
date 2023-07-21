@@ -1,20 +1,20 @@
-name: Icon request (app / site)
-description: Suggest a new icon.
-title: "Icon request: "
-labels: ["New Icon"]
+name: Update icon
+description: Request update for icon, if logo or main brand color is outdated.
+title: "Update icon: "
+labels: ["Update"]
 body:
   - type: markdown
     attributes:
       value: |
-        ### :loudspeaker: [Read our issue guidelines first](https://github.com/aegis-icons/aegis-icons/blob/master/CONTRIBUTING.md#issue-guidelines) if you haven't already!
+        ### :loudspeaker: [Read our issue guidelines first](https://github.com/Delta-Icons/aegis-icons/blob/master/CONTRIBUTING.md#issue-guidelines) if you haven't already!
         :angry: **If you don't read / follow the issue guidelines**, your issue(s) might **get rejected** and, *in the worse case*, **get you banned.**
         *(Issue guidelines was last updated on: **2022-10-26**).*
         
         *And do not request multiple icons in single issue, make multiple issues instead.*
         
         ### :triangular_flag_on_post: Issue title formatting *(top text field)*
-        - Remember to **add name of the brand / site / app** at the end of *"Icon request:"* text.
-          - Eg. `Icon request: GitHub`
+        - Remember to **add name of the brand / site / app** at the end of *"Update icon:"* text.
+          - Eg. `Update icon: GitHub`
         - Please use proper capitalization / spelling for the name (check the capitalization / spelling from browser tab title or body text of their website, **not from the logo!**).
         - **Do not change the formatting of the title!**
         
@@ -37,6 +37,16 @@ body:
         - :warning: **Don't add Play Store link or other app store links**, unless requested entity doesn't have any other website.
         
         ---
+  - type: dropdown
+    id: update-reason
+    attributes:
+      label: Reason for update
+      options:
+        - New logo
+        - Updated brand color
+        - Other (write more info to "Anything else?" section)
+    validations:
+      required: true
   - type: input
     id: logo-url
     attributes:
@@ -57,33 +67,18 @@ body:
         
         ---
   - type: textarea
-    id: 2fa-proof
-    attributes:
-      label: Proof of the Aegis-compatible 2FA
-  - type: markdown
-    attributes:
-      value: |
-        *Add either:*
-        - Link to documentation page / announcement post related to TOTP / Google Authenticator 2FA (**prefered option #1**)
-        - Link to 2FA Directory's GitHub pull request page for the service ([search them here](https://github.com/2factorauth/twofactorauth/pulls?q=is%3Apr), **prefered option #2**)
-        - Screenshot proof of the TOTP / Google Authenticator 2FA settings page or login prompt **(if either prefered option wasn't available)**
-          - :x: **NO screenshots from Aegis app, period!** Only from the service you have the account on.
-          - *Censor sensitive info if needed (QR codes, 2FA seed codes, personal information etc.)*
-          
-        > **Note** – Documentation link or screenshot should clearly mention that 2FA is (T)OTP / HOTP or any mobile 2FA app (eg. Google Authenticator, Microsoft Authenticator, LastPass Authenticator etc.) or show section of the 2FA setup page with *(censored)* OTP 2FA QR code image. **Otherwise we cannot be sure if 2FA actually is compatible for Aegis.**
-        
-        *This is optional, but **if we cannot find info about 2FA from the website, Google nor [2FA Directory](https://2fa.directory/int/)**, then we **reject the request** (we give you possibility for reopening though by sending the proof via comment).*
-        
-        ---
-  - type: textarea
     id: anything-else
     attributes:
       label: Anything else?
-      description: "Optional text field to add other info: extra info about branding, kudos etc."
+      description: "Optional text field to add other info: more info about reason to update, extra info about branding, kudos etc."
+  - type: markdown
+    attributes:
+      value: |
+        :point_up: **Required** if you selected `Other` as "reason for update".
   - type: checkboxes
     id: terms
     attributes:
       label: Confirmation
       options:
-        - label: I have read and followed the [issue guidelines](https://github.com/aegis-icons/aegis-icons/blob/master/CONTRIBUTING.md#issue-guidelines) & issue form.
+        - label: I have read and followed the [issue guidelines](https://github.com/Delta-Icons/aegis-icons/blob/master/CONTRIBUTING.md#issue-guidelines) & issue form.
           required: true
