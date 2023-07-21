@@ -1,3 +1,4 @@
+
 <p align="center">
     <img src="https://raw.githubusercontent.com/Delta-Icons/android/master/resources/vectors/figma/icon.svg" width="200" />
     <img src="https://raw.githubusercontent.com/Delta-Icons/android/master/resources/vectors/aegis_auth.svg" width="200" />
@@ -7,16 +8,17 @@
     <b>Delta version of the unofficial monochrome-styled 2FA icons for open source Android authenticator <a href="https://github.com/beemdevelopment/Aegis">Aegis</a>.</b>
 </p>
 
-# Original README below
-
 <p align="center">
-    <a href="https://aegis-icons.github.io/">
-        <img src="showcase.png" alt="Showcase banner" />
-    </a>
+	<img src="https://raw.githubusercontent.com/Delta-Icons/aegis-icons/master/icons/1_Primary/Backblaze.svg" width="100" />
+	<img src="https://raw.githubusercontent.com/Delta-Icons/aegis-icons/master/icons/1_Primary/Firefox.svg" width="100" />
+	<img src="https://raw.githubusercontent.com/Delta-Icons/aegis-icons/master/icons/1_Primary/Evernote.svg" width="100" />
+	<img src="https://raw.githubusercontent.com/Delta-Icons/aegis-icons/master/icons/1_Primary/Dropbox.svg" width="100" />
+	<img src="https://raw.githubusercontent.com/Delta-Icons/aegis-icons/master/icons/4_Outdated/Clubhouse.svg" width="100" />
+	<img src="https://raw.githubusercontent.com/Delta-Icons/aegis-icons/master/icons/1_Primary/Steam.svg" width="100" />
 </p>
 
 <p align="center">
-   <b><a href="https://aegis-icons.github.io/">Browse the icons on our website</a></b> • <b><a href="../../releases/latest">Download icon pack</a></b> • <b><a href="FAQ.md">FAQ</a></b> • 
+   <b><a href="https://delta-icons.github.io/">Browse the icons on our website</a></b> • <b><a href="../../releases/latest">Download icon pack</a></b> • <b><a href="FAQ.md">FAQ</a></b> • 
    <b><a href="CONTRIBUTING.md">Contributing</a></b>
 </p>
 
@@ -25,6 +27,7 @@
 </p>
 
 ## Credits
+- **[Original project - Aegis Icons](https://github.com/aegis-icons/aegis-icons) ([CC0 1.0 Universal](https://github.com/spothq/cryptocurrency-icons/blob/master/LICENSE.md))**
 - [2FA Directory](https://2fa.directory/) ([MIT](https://github.com/2factorauth/twofactorauth/blob/master/LICENSE.md))
 - [Cryptocurrency Icons](http://cryptoicons.co/) ([CC0 1.0 Universal](https://github.com/spothq/cryptocurrency-icons/blob/master/LICENSE.md))
 - [Fork Awesome](https://forkaweso.me/Fork-Awesome/) ([SIL OFL 1.1](https://github.com/ForkAwesome/Fork-Awesome/blob/master/LICENSES))
@@ -36,11 +39,6 @@
 - [Simple Icons](https://simpleicons.org/) ([CC0 1.0 Universal](https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md))
 
 **And [special thanks to these contributors!](CREDITS-TO-CONTRIBUTORS.md)**
-
-## Alternative icon packs
-
-- [aegis-simple-icons](https://github.com/alexbakker/aegis-simple-icons) – Automatically generated icons based on [Simple Icons](https://simpleicons.org/).
-  - **Note:** *not all of the services with icons in this pack has Aegis-compatible 2FA support.*
 
 ## Disclaimer
 This project includes material that may be protected as a trademark in some jurisdictions. Trademarks seen here in "aegis-icons" project does not indicate endorsement to the brands. If you want to use icon(s) publicly, you have to ensure that you have the legal right to do so and that you do not infringe any trademark rights. Please do not use brand based icons for any purpose except to represent the company, product, or service to which they refer.
