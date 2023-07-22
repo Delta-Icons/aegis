@@ -1,1 +1,11 @@
-<svg width="1024" height="1024" fill="none" xmlns="http://www.w3.org/2000/svg"><g clip-path="url(#a)"><path d="M512 1024c282.77 0 512-229.23 512-512S794.77 0 512 0 0 229.23 0 512s229.23 512 512 512Z" fill="#98DC9A"/><path d="M495.53 545 280 498.63V355.37l215.54-105.91V545h-.01Zm12.17 29L292.17 689.33 569 754.54l223-117.06L507.7 574Zm-12.17-12.17L280 677.16V515.5l215.53 46.33Z" fill="#fff"/></g><defs><clipPath id="a"><path fill="#fff" d="M0 0h1024v1024H0z"/></clipPath></defs></svg>
+<svg width="1024" height="1024" viewBox="0 0 1024 1024" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_2_2919)">
+<path d="M512 1024C794.77 1024 1024 794.77 1024 512C1024 229.23 794.77 0 512 0C229.23 0 0 229.23 0 512C0 794.77 229.23 1024 512 1024Z" fill="#98DC9A"/>
+<path d="M495.53 545L280 498.63V355.37L495.54 249.46V545H495.53ZM507.7 574L292.17 689.33L569 754.54L792 637.48L507.7 574ZM495.53 561.83L280 677.16V515.5L495.53 561.83Z" fill="white"/>
+</g>
+<defs>
+<clipPath id="clip0_2_2919">
+<rect width="1024" height="1024" fill="white"/>
+</clipPath>
+</defs>
+</svg>

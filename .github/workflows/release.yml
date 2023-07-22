@@ -19,16 +19,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
 
-      - name: Optimize SVGs
-        uses: ericcornelissen/svgo-action@v3.1.4
-        id: svgo
-
-      - name: Commit optimizations
-        uses: stefanzweifel/git-auto-commit-action@v4
-        if: ${{steps.svgo.outputs.DID_OPTIMIZE}}
-        with:
-          commit_message: Optimize ${{steps.svgo.outputs.OPTIMIZED_COUNT}} SVG(s)
-
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
