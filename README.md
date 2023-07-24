@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-    <b>Delta version of the unofficial monochrome-styled 2FA icons for open source Android authenticator <a href="https://github.com/beemdevelopment/Aegis">Aegis</a>.</b>
+    <b>Delta version of <a href="https://aegis-icons.github.io/">aegis-icons</a>, the unofficial monochrome-styled 2FA icon pack for open source Android authenticator <a href="https://github.com/beemdevelopment/Aegis">Aegis</a>.</b>
 </p>
 
 <p align="center">
@@ -27,7 +27,7 @@
 </p>
 
 ## Credits
-- **[Original project - Aegis Icons](https://github.com/aegis-icons/aegis-icons) ([CC0 1.0 Universal](https://github.com/spothq/cryptocurrency-icons/blob/master/LICENSE.md))**
+- **[Original project - aegis-icons](https://github.com/aegis-icons/aegis-icons) ([CC0 1.0 Universal](https://github.com/spothq/cryptocurrency-icons/blob/master/LICENSE.md))**
 - [2FA Directory](https://2fa.directory/) ([MIT](https://github.com/2factorauth/twofactorauth/blob/master/LICENSE.md))
 - [Cryptocurrency Icons](http://cryptoicons.co/) ([CC0 1.0 Universal](https://github.com/spothq/cryptocurrency-icons/blob/master/LICENSE.md))
 - [Fork Awesome](https://forkaweso.me/Fork-Awesome/) ([SIL OFL 1.1](https://github.com/ForkAwesome/Fork-Awesome/blob/master/LICENSES))
