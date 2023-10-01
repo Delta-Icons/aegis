@@ -1,43 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   viewBox="0 0 1024 1024"
-   version="1.1"
-   id="svg6"
-   sodipodi:docname="bitFlyer.svg"
-   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <defs
-     id="defs10" />
-  <sodipodi:namedview
-     id="namedview8"
-     pagecolor="#505050"
-     bordercolor="#eeeeee"
-     borderopacity="1"
-     inkscape:showpageshadow="0"
-     inkscape:pageopacity="0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#505050"
-     showgrid="false"
-     inkscape:zoom="0.83398438"
-     inkscape:cx="368.11241"
-     inkscape:cy="512"
-     inkscape:window-width="1920"
-     inkscape:window-height="1009"
-     inkscape:window-x="1072"
-     inkscape:window-y="479"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg6" />
-  <circle
-     cx="512"
-     cy="512"
-     r="512"
-     style="fill:#728dbe"
-     id="circle2" />
-  <path
-     d="M512 439.98c39.78 0 72.02 32.25 72.02 72.02s-32.25 72.02-72.02 72.02-72.02-32.25-72.02-72.02c0-39.78 32.25-72.02 72.02-72.02ZM272 272h145.22v145.22H272V272Zm167.44 0h145.23v145.22H439.44V272ZM272 439.44h145.22v145.23H272V439.44Zm0 167.33h145.22V752H272V606.77ZM606.78 272H752v145.22H606.78V272Z"
-     style="fill:#fff"
-     id="path4" />
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024">
+   <circle cx="512" cy="512" r="512" style="fill:#728dbe"/>
+   <path d="M512 439.98c39.78 0 72.02 32.25 72.02 72.02s-32.25 72.02-72.02 72.02-72.02-32.25-72.02-72.02c0-39.78 32.25-72.02 72.02-72.02ZM272 272h145.22v145.22H272V272Zm167.44 0h145.23v145.22H439.44V272ZM272 439.44h145.22v145.23H272V439.44Zm0 167.33h145.22V752H272V606.77ZM606.78 272H752v145.22H606.78V272Z" style="fill:#fff"/>
 </svg>
