@@ -1,11 +1,50 @@
-<svg width="1024" height="1024" viewBox="0 0 1024 1024" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g clip-path="url(#clip0_2_3042)">
-<path d="M512 1024C794.77 1024 1024 794.77 1024 512C1024 229.23 794.77 0 512 0C229.23 0 0 229.23 0 512C0 794.77 229.23 1024 512 1024Z" fill="#F8C18C"/>
-<path d="M597.8 575.6V652.1H393.8V448.4H470.3V278.1H300V448.3H376.5V669.3H597.8V745.8H768V575.6H597.8ZM317.4 431V295.5H452.9V431H317.4ZM750.6 728.5H615.1V593H750.6V728.5Z" fill="white"/>
-</g>
-<defs>
-<clipPath id="clip0_2_3042">
-<rect width="1024" height="1024" fill="white"/>
-</clipPath>
-</defs>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 1024 1024"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="OpenSRS.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     id="namedview8"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     showguides="false"
+     inkscape:zoom="0.83398438"
+     inkscape:cx="368.11241"
+     inkscape:cy="512"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="1072"
+     inkscape:window-y="479"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6">
+    <sodipodi:guide
+       position="1431.6815,850.13583"
+       orientation="1,0"
+       id="guide185"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <circle
+     cx="512"
+     cy="512"
+     r="512"
+     style="fill:#9abeff"
+     id="circle2" />
+  <path
+     d="M635.7 372.2c-81.8 0-148.2 66.7-148.2 148.4s66.4 148.2 148.2 148.2S784 602.1 784 520.4s-66.5-148.2-148.3-148.2zm0 209c-33.6 0-60.5-27.1-60.5-60.6s27.2-60.5 60.5-60.5 60.5 27.1 60.5 60.5-27.2 60.6-60.5 60.6zM474.6 300h-86.7L252 672h89l133.6-372z"
+     style="fill:#fff"
+     id="path4" />
 </svg>
