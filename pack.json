@@ -1509,6 +1509,13 @@
             ]
         },
         {
+            "filename": "icons/1_Primary/Filen bg.var.svg",
+            "category": null,
+            "issuer": [
+                "Filen bg.var"
+            ]
+        },
+        {
             "filename": "icons/1_Primary/Filen.svg",
             "category": null,
             "issuer": [
@@ -1992,17 +1999,17 @@
             ]
         },
         {
-            "filename": "icons/1_Primary/Hive OS.svg",
-            "category": null,
-            "issuer": [
-                "Hive OS"
-            ]
-        },
-        {
             "filename": "icons/1_Primary/Hiven.svg",
             "category": null,
             "issuer": [
                 "Hiven"
+            ]
+        },
+        {
+            "filename": "icons/1_Primary/Hiveon.svg",
+            "category": null,
+            "issuer": [
+                "Hiveon"
             ]
         },
         {
@@ -2622,10 +2629,10 @@
             ]
         },
         {
-            "filename": "icons/1_Primary/M1 Finance.svg",
+            "filename": "icons/1_Primary/M1.svg",
             "category": null,
             "issuer": [
-                "M1 Finance"
+                "M1"
             ]
         },
         {
@@ -2881,6 +2888,13 @@
             ]
         },
         {
+            "filename": "icons/1_Primary/Murena.svg",
+            "category": null,
+            "issuer": [
+                "Murena"
+            ]
+        },
+        {
             "filename": "icons/1_Primary/Mutasibank.svg",
             "category": null,
             "issuer": [
@@ -2983,13 +2997,6 @@
             "category": null,
             "issuer": [
                 "NearlyFreeSpeech.NET"
-            ]
-        },
-        {
-            "filename": "icons/1_Primary/Neeva.svg",
-            "category": null,
-            "issuer": [
-                "Neeva"
             ]
         },
         {
@@ -3098,10 +3105,10 @@
             ]
         },
         {
-            "filename": "icons/1_Primary/Nimbus Note.svg",
+            "filename": "icons/1_Primary/Nimbus Platform.svg",
             "category": null,
             "issuer": [
-                "Nimbus Note"
+                "Nimbus Platform"
             ]
         },
         {
@@ -3116,13 +3123,6 @@
             "category": null,
             "issuer": [
                 "Nitrado"
-            ]
-        },
-        {
-            "filename": "icons/1_Primary/Nitrogen Sports.svg",
-            "category": null,
-            "issuer": [
-                "Nitrogen Sports"
             ]
         },
         {
@@ -3217,6 +3217,13 @@
             ]
         },
         {
+            "filename": "icons/1_Primary/OKX.svg",
+            "category": null,
+            "issuer": [
+                "OKX"
+            ]
+        },
+        {
             "filename": "icons/1_Primary/OLG.svg",
             "category": null,
             "issuer": [
@@ -3259,10 +3266,10 @@
             ]
         },
         {
-            "filename": "icons/1_Primary/Obsidian Entertainment.svg",
+            "filename": "icons/1_Primary/Obsidian.svg",
             "category": null,
             "issuer": [
-                "Obsidian Entertainment"
+                "Obsidian"
             ]
         },
         {
@@ -3833,10 +3840,10 @@
             ]
         },
         {
-            "filename": "icons/1_Primary/Rackspace.svg",
+            "filename": "icons/1_Primary/Rackspace Technology.svg",
             "category": null,
             "issuer": [
-                "Rackspace"
+                "Rackspace Technology"
             ]
         },
         {
@@ -5639,13 +5646,6 @@
             ]
         },
         {
-            "filename": "icons/1_Primary/ecloud.svg",
-            "category": null,
-            "issuer": [
-                "ecloud"
-            ]
-        },
-        {
             "filename": "icons/1_Primary/ecobee.svg",
             "category": null,
             "issuer": [
@@ -6241,13 +6241,6 @@
             ]
         },
         {
-            "filename": "icons/2_Variations/Mercado Libre fg.var.svg",
-            "category": null,
-            "issuer": [
-                "Mercado Libre fg.var"
-            ]
-        },
-        {
             "filename": "icons/2_Variations/Mollie bg.var.svg",
             "category": null,
             "issuer": [
@@ -6304,17 +6297,10 @@
             ]
         },
         {
-            "filename": "icons/2_Variations/Nuki bg.var.svg",
+            "filename": "icons/2_Variations/OKX bg.var.svg",
             "category": null,
             "issuer": [
-                "Nuki bg.var"
-            ]
-        },
-        {
-            "filename": "icons/2_Variations/Nuki fg.bg.var.svg",
-            "category": null,
-            "issuer": [
-                "Nuki fg.bg.var"
+                "OKX bg.var"
             ]
         },
         {
@@ -6983,13 +6969,6 @@
             ]
         },
         {
-            "filename": "icons/4_Outdated/Asustor v1.svg",
-            "category": null,
-            "issuer": [
-                "Asustor v1"
-            ]
-        },
-        {
             "filename": "icons/4_Outdated/Autodesk v1.svg",
             "category": null,
             "issuer": [
@@ -7011,31 +6990,10 @@
             ]
         },
         {
-            "filename": "icons/4_Outdated/Betterment v1.svg",
-            "category": null,
-            "issuer": [
-                "Betterment v1"
-            ]
-        },
-        {
-            "filename": "icons/4_Outdated/BitGo v1.svg",
-            "category": null,
-            "issuer": [
-                "BitGo v1"
-            ]
-        },
-        {
             "filename": "icons/4_Outdated/BitSight v1.svg",
             "category": null,
             "issuer": [
                 "BitSight v1"
-            ]
-        },
-        {
-            "filename": "icons/4_Outdated/Bitazza v1.svg",
-            "category": null,
-            "issuer": [
-                "Bitazza v1"
             ]
         },
         {
@@ -7064,13 +7022,6 @@
             "category": null,
             "issuer": [
                 "Bitstamp v1"
-            ]
-        },
-        {
-            "filename": "icons/4_Outdated/Bitwarden v1.svg",
-            "category": null,
-            "issuer": [
-                "Bitwarden v1"
             ]
         },
         {
@@ -7151,20 +7102,6 @@
             ]
         },
         {
-            "filename": "icons/4_Outdated/Control D v1.svg",
-            "category": null,
-            "issuer": [
-                "Control D v1"
-            ]
-        },
-        {
-            "filename": "icons/4_Outdated/ControlD v1 fg.var.svg",
-            "category": null,
-            "issuer": [
-                "ControlD v1 fg.var"
-            ]
-        },
-        {
             "filename": "icons/4_Outdated/Cozy Cloud v1.svg",
             "category": null,
             "issuer": [
@@ -7179,17 +7116,17 @@
             ]
         },
         {
+            "filename": "icons/4_Outdated/DMarket v1.svg",
+            "category": null,
+            "issuer": [
+                "DMarket v1"
+            ]
+        },
+        {
             "filename": "icons/4_Outdated/Dashlane v1.svg",
             "category": null,
             "issuer": [
                 "Dashlane v1"
-            ]
-        },
-        {
-            "filename": "icons/4_Outdated/Directus v1.svg",
-            "category": null,
-            "issuer": [
-                "Directus v1"
             ]
         },
         {
@@ -7242,17 +7179,17 @@
             ]
         },
         {
+            "filename": "icons/4_Outdated/Fathom Analytics v1.svg",
+            "category": null,
+            "issuer": [
+                "Fathom Analytics v1"
+            ]
+        },
+        {
             "filename": "icons/4_Outdated/Firefox v1.svg",
             "category": null,
             "issuer": [
                 "Firefox v1"
-            ]
-        },
-        {
-            "filename": "icons/4_Outdated/Gandi v1.svg",
-            "category": null,
-            "issuer": [
-                "Gandi v1"
             ]
         },
         {
@@ -7270,6 +7207,13 @@
             ]
         },
         {
+            "filename": "icons/4_Outdated/Glassdoor v2.svg",
+            "category": null,
+            "issuer": [
+                "Glassdoor v2"
+            ]
+        },
+        {
             "filename": "icons/4_Outdated/GoDaddy v1 bg.var.svg",
             "category": null,
             "issuer": [
@@ -7284,17 +7228,17 @@
             ]
         },
         {
-            "filename": "icons/4_Outdated/H&R Block v1.svg",
-            "category": null,
-            "issuer": [
-                "H&R Block v1"
-            ]
-        },
-        {
             "filename": "icons/4_Outdated/HM Revenue & Customs.svg",
             "category": null,
             "issuer": [
                 "HM Revenue & Customs"
+            ]
+        },
+        {
+            "filename": "icons/4_Outdated/HackNotice v1.svg",
+            "category": null,
+            "issuer": [
+                "HackNotice v1"
             ]
         },
         {
@@ -7305,17 +7249,10 @@
             ]
         },
         {
-            "filename": "icons/4_Outdated/IFTTT v1.svg",
+            "filename": "icons/4_Outdated/Intuit v1.svg",
             "category": null,
             "issuer": [
-                "IFTTT v1"
-            ]
-        },
-        {
-            "filename": "icons/4_Outdated/Instagram v1.svg",
-            "category": null,
-            "issuer": [
-                "Instagram v1"
+                "Intuit v1"
             ]
         },
         {
@@ -7323,6 +7260,13 @@
             "category": null,
             "issuer": [
                 "Justworks v1"
+            ]
+        },
+        {
+            "filename": "icons/4_Outdated/Koofr v1.svg",
+            "category": null,
+            "issuer": [
+                "Koofr v1"
             ]
         },
         {
@@ -7340,17 +7284,17 @@
             ]
         },
         {
-            "filename": "icons/4_Outdated/MangaDex v1.svg",
+            "filename": "icons/4_Outdated/MEXC v1.svg",
             "category": null,
             "issuer": [
-                "MangaDex v1"
+                "MEXC v1"
             ]
         },
         {
-            "filename": "icons/4_Outdated/Mastodon v1.svg",
+            "filename": "icons/4_Outdated/MXroute v1.svg",
             "category": null,
             "issuer": [
-                "Mastodon v1"
+                "MXroute v1"
             ]
         },
         {
@@ -7361,6 +7305,13 @@
             ]
         },
         {
+            "filename": "icons/4_Outdated/Netlify v1.svg",
+            "category": null,
+            "issuer": [
+                "Netlify v1"
+            ]
+        },
+        {
             "filename": "icons/4_Outdated/NextDNS v1.svg",
             "category": null,
             "issuer": [
@@ -7368,10 +7319,10 @@
             ]
         },
         {
-            "filename": "icons/4_Outdated/OVH v1.svg",
+            "filename": "icons/4_Outdated/OKEx.svg",
             "category": null,
             "issuer": [
-                "OVH v1"
+                "OKEx"
             ]
         },
         {
@@ -7396,10 +7347,24 @@
             ]
         },
         {
+            "filename": "icons/4_Outdated/OneSignal v1.svg",
+            "category": null,
+            "issuer": [
+                "OneSignal v1"
+            ]
+        },
+        {
             "filename": "icons/4_Outdated/OnlyFans v1.svg",
             "category": null,
             "issuer": [
                 "OnlyFans v1"
+            ]
+        },
+        {
+            "filename": "icons/4_Outdated/OpenSRS v1.svg",
+            "category": null,
+            "issuer": [
+                "OpenSRS v1"
             ]
         },
         {
@@ -7424,13 +7389,6 @@
             ]
         },
         {
-            "filename": "icons/4_Outdated/Patreon v1.svg",
-            "category": null,
-            "issuer": [
-                "Patreon v1"
-            ]
-        },
-        {
             "filename": "icons/4_Outdated/PayPal v1.svg",
             "category": null,
             "issuer": [
@@ -7442,13 +7400,6 @@
             "category": null,
             "issuer": [
                 "PayPal v2"
-            ]
-        },
-        {
-            "filename": "icons/4_Outdated/Pinterest v1.svg",
-            "category": null,
-            "issuer": [
-                "Pinterest v1"
             ]
         },
         {
@@ -7564,13 +7515,6 @@
             ]
         },
         {
-            "filename": "icons/4_Outdated/Stripe v1.svg",
-            "category": null,
-            "issuer": [
-                "Stripe v1"
-            ]
-        },
-        {
             "filename": "icons/4_Outdated/Thycotic.svg",
             "category": null,
             "issuer": [
@@ -7641,20 +7585,6 @@
             ]
         },
         {
-            "filename": "icons/4_Outdated/VK v1.svg",
-            "category": null,
-            "issuer": [
-                "VK v1"
-            ]
-        },
-        {
-            "filename": "icons/4_Outdated/VK v2.svg",
-            "category": null,
-            "issuer": [
-                "VK v2"
-            ]
-        },
-        {
             "filename": "icons/4_Outdated/Windscribe v1.svg",
             "category": null,
             "issuer": [
@@ -7687,6 +7617,13 @@
             "category": null,
             "issuer": [
                 "bitFlyer v1"
+            ]
+        },
+        {
+            "filename": "icons/4_Outdated/ecloud.svg",
+            "category": null,
+            "issuer": [
+                "ecloud"
             ]
         },
         {
