@@ -9,12 +9,7 @@
 </p>
 
 <p align="center">
-	<img src="https://raw.githubusercontent.com/Delta-Icons/aegis-icons/master/icons/1_Primary/Backblaze.svg" width="100" />
-	<img src="https://raw.githubusercontent.com/Delta-Icons/aegis-icons/master/icons/1_Primary/Firefox.svg" width="100" />
-	<img src="https://raw.githubusercontent.com/Delta-Icons/aegis-icons/master/icons/1_Primary/Evernote.svg" width="100" />
-	<img src="https://raw.githubusercontent.com/Delta-Icons/aegis-icons/master/icons/1_Primary/Dropbox.svg" width="100" />
-	<img src="https://raw.githubusercontent.com/Delta-Icons/aegis-icons/master/icons/4_Outdated/Clubhouse.svg" width="100" />
-	<img src="https://raw.githubusercontent.com/Delta-Icons/aegis-icons/master/icons/1_Primary/Steam.svg" width="100" />
+    <img src="https://raw.githubusercontent.com/Delta-Icons/aegis-icons/master/.github/preview.svg" width="100" />
 </p>
 
 <p align="center">
