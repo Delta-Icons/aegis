@@ -116,6 +116,13 @@
             ]
         },
         {
+            "filename": "icons/1_Primary/Agora Desk.svg",
+            "category": null,
+            "issuer": [
+                "Agora Desk"
+            ]
+        },
+        {
             "filename": "icons/1_Primary/AirVPN.svg",
             "category": null,
             "issuer": [
@@ -2356,6 +2363,13 @@
             ]
         },
         {
+            "filename": "icons/1_Primary/Kagi Search.svg",
+            "category": null,
+            "issuer": [
+                "Kagi Search"
+            ]
+        },
+        {
             "filename": "icons/1_Primary/Kaseya.svg",
             "category": null,
             "issuer": [
@@ -2591,6 +2605,13 @@
             "category": null,
             "issuer": [
                 "Lnk.Bio"
+            ]
+        },
+        {
+            "filename": "icons/1_Primary/Local Monero.svg",
+            "category": null,
+            "issuer": [
+                "Local Monero"
             ]
         },
         {
