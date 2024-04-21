@@ -116,10 +116,10 @@
             ]
         },
         {
-            "filename": "icons/1_Primary/Agora Desk.svg",
+            "filename": "icons/1_Primary/AgoraDesk.svg",
             "category": null,
             "issuer": [
-                "Agora Desk"
+                "AgoraDesk"
             ]
         },
         {
@@ -2608,10 +2608,10 @@
             ]
         },
         {
-            "filename": "icons/1_Primary/Local Monero.svg",
+            "filename": "icons/1_Primary/LocalMonero.svg",
             "category": null,
             "issuer": [
-                "Local Monero"
+                "LocalMonero"
             ]
         },
         {
@@ -5632,6 +5632,13 @@
             ]
         },
         {
+            "filename": "icons/1_Primary/buy_me_a_coffee.svg",
+            "category": null,
+            "issuer": [
+                "buy_me_a_coffee"
+            ]
+        },
+        {
             "filename": "icons/1_Primary/cPanel.svg",
             "category": null,
             "issuer": [
@@ -5832,6 +5839,13 @@
             "category": null,
             "issuer": [
                 "sourcehut"
+            ]
+        },
+        {
+            "filename": "icons/1_Primary/textverified.svg",
+            "category": null,
+            "issuer": [
+                "textverified"
             ]
         },
         {
