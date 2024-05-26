@@ -7424,6 +7424,13 @@
             ]
         },
         {
+            "filename": "icons/4_Outdated/Patreon v1.svg",
+            "category": null,
+            "issuer": [
+                "Patreon v1"
+            ]
+        },
+        {
             "filename": "icons/4_Outdated/PayPal v1.svg",
             "category": null,
             "issuer": [
@@ -7582,6 +7589,13 @@
             "category": null,
             "issuer": [
                 "Tumblr v1"
+            ]
+        },
+        {
+            "filename": "icons/4_Outdated/Tutanota v1.svg",
+            "category": null,
+            "issuer": [
+                "Tutanota v1"
             ]
         },
         {
