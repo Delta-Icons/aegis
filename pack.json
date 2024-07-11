@@ -319,6 +319,13 @@
             ]
         },
         {
+            "filename": "icons/1_Primary/Avenue.svg",
+            "category": null,
+            "issuer": [
+                "Avenue"
+            ]
+        },
+        {
             "filename": "icons/1_Primary/Azure.svg",
             "category": null,
             "issuer": [
@@ -652,6 +659,13 @@
             "category": null,
             "issuer": [
                 "Buffer"
+            ]
+        },
+        {
+            "filename": "icons/1_Primary/BugSnag.svg",
+            "category": null,
+            "issuer": [
+                "BugSnag"
             ]
         },
         {
@@ -1089,6 +1103,13 @@
             ]
         },
         {
+            "filename": "icons/1_Primary/Datadog.svg",
+            "category": null,
+            "issuer": [
+                "Datadog"
+            ]
+        },
+        {
             "filename": "icons/1_Primary/Datove schranky.svg",
             "category": null,
             "issuer": [
@@ -1282,6 +1303,13 @@
             "category": null,
             "issuer": [
                 "ESET"
+            ]
+        },
+        {
+            "filename": "icons/1_Primary/ESL Play.svg",
+            "category": null,
+            "issuer": [
+                "ESL Play"
             ]
         },
         {
@@ -2073,6 +2101,13 @@
             "category": null,
             "issuer": [
                 "Hubspot"
+            ]
+        },
+        {
+            "filename": "icons/1_Primary/Hugging Face.svg",
+            "category": null,
+            "issuer": [
+                "Hugging Face"
             ]
         },
         {
@@ -3161,6 +3196,13 @@
             ]
         },
         {
+            "filename": "icons/1_Primary/NordLocker.svg",
+            "category": null,
+            "issuer": [
+                "NordLocker"
+            ]
+        },
+        {
             "filename": "icons/1_Primary/NordVPN.svg",
             "category": null,
             "issuer": [
@@ -3417,6 +3459,13 @@
             "category": null,
             "issuer": [
                 "PIEE"
+            ]
+        },
+        {
+            "filename": "icons/1_Primary/POEditor.svg",
+            "category": null,
+            "issuer": [
+                "POEditor"
             ]
         },
         {
@@ -4540,6 +4589,13 @@
             ]
         },
         {
+            "filename": "icons/1_Primary/Supabase.svg",
+            "category": null,
+            "issuer": [
+                "Supabase"
+            ]
+        },
+        {
             "filename": "icons/1_Primary/SuperHosting.BG.svg",
             "category": null,
             "issuer": [
@@ -5443,6 +5499,13 @@
             ]
         },
         {
+            "filename": "icons/1_Primary/Xbox.svg",
+            "category": null,
+            "issuer": [
+                "Xbox"
+            ]
+        },
+        {
             "filename": "icons/1_Primary/XenForo.svg",
             "category": null,
             "issuer": [
@@ -5772,6 +5835,13 @@
             ]
         },
         {
+            "filename": "icons/1_Primary/nuget.svg",
+            "category": null,
+            "issuer": [
+                "nuget"
+            ]
+        },
+        {
             "filename": "icons/1_Primary/omg.lol.svg",
             "category": null,
             "issuer": [
@@ -5930,6 +6000,13 @@
             "category": null,
             "issuer": [
                 "Autodesk bg.var"
+            ]
+        },
+        {
+            "filename": "icons/2_Variations/Avenue bg.var.svg",
+            "category": null,
+            "issuer": [
+                "Avenue bg.var"
             ]
         },
         {
