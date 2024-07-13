@@ -6,7 +6,7 @@ These are people who has contributed our project with commits or sending icon su
 
 *Names are in alphanumerical order based of the username.*
 
-If you want name changed or deleted, [please make a new issue](https://github.com/aegis-icons/aegis-icons/issues/new/choose) (choose "Other") or comment on your PR / issue (add `@krisu5` to the comment to notify the maintainer).
+If you want name changed or deleted, [please make a new issue](https://github.com/Delta-Icons/aegis-icons/issues/new/choose) (choose "Other") or comment on your PR / issue (add `@GitGitro` to the comment to notify the maintainer).
 
 ---
 
@@ -125,6 +125,6 @@ If you want name changed or deleted, [please make a new issue](https://github.co
 - **[ukanuk](https://github.com/ukanuk)** (Micah Lindstrom)
   - For the first draft of *CONTRIBUTING.md* document ([#65](https://github.com/aegis-icons/aegis-icons/pull/65)).
 - **[Xinayder](https://github.com/Xinayder)** (Alexandre Oliveira)
-  - For *Migadu* icon ([#585](https://github.com/aegis-icons/aegis-icons/pull/585)).
+  - For these icons: *Migadu* icon ([#585](https://github.com/aegis-icons/aegis-icons/pull/585)), *Avenue* icon ([#3](https://github.com/Delta-Icons/aegis-icons/pull/3))
 - **[yfunk](https://github.com/yfunk)**
   - For these icons: *Expo* ([#563](https://github.com/aegis-icons/aegis-icons/pull/563)), *Netim* ([#576](https://github.com/aegis-icons/aegis-icons/pull/576)), *Exaroton* ([#577](https://github.com/aegis-icons/aegis-icons/pull/577)).

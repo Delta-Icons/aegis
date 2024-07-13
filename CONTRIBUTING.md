@@ -1,6 +1,8 @@
 # Contributing
 Thank you for taking the time to read and contribute to our project!
 
+## **Beware! This is a fork that uses the palette from the Delta project**
+
 *This documentation is long and comprehensive, because we strive for high quality for our icons and want to minimize extra work as much possible.*
 
 :mega: **ALWAYS double-check from this page before asking a question about submissions**.
