@@ -1,7 +1,7 @@
 # Contributing
 Thank you for taking the time to read and contribute to our project!
 
-## **Beware! This is a fork that uses the palette from the Delta project**
+## **Beware! This is a fork that uses the palette from the Delta project. Read more in [colors](#colors)**
 
 *This documentation is long and comprehensive, because we strive for high quality for our icons and want to minimize extra work as much possible.*
 
@@ -24,7 +24,6 @@ Icons may look simple, but logos / symbols in them are actually carefully crafte
 **Table of contents**
 - [**Icon acceptability criteria**](#icon-acceptability-criteria)
   - [Approved](#approved)
-  - [Case-by-case basis](#case-by-case-basis)
   - [Not approved](#not-approved)
 - [**Icon creation walkthrough**](#icon-creation-walkthrough)
   - [Software](#software)
@@ -71,29 +70,6 @@ Before making or requesting an icon for app / site, please check if it fits our 
   - *Examples (not limited to):* social media, productivity tools, cloud services, development tools, gaming related etc.
 - Almost any app / site / service, **that's trustworthy and doesn't have the exceptions from below.**
   - Still in spite of this, aegis-icons has right to reject requests or submissions if needed or necessary.
-
-### Case-by-case basis
-:grey_question: Needs some examining before accepting or rejecting. Request or submit and we will tell if it's accepted or not.
-
-- Forums, message groups and similar sites / communities using pre-existing hosted software.
-  - We rather make icons based of the softwares, because those are more universally usable for users then specific communities.
-    - Detected with tools like [What CMS](https://whatcms.org) and [W3Techs Site Info](https://w3techs.com/sites).
-  - *Exception:* really popular forums can get their own icons (at least **over 250,000 total members** and high posting activity).
-- Platforms that icon requester / submitter is the creator or owner of the platform itself.
-  - We don't do free work or want self-advertising here.
-  - *Exception:* if platform is actually popular and has potential users for Aegis.
-- Self-hosted or similar software.
-  - Suggested to have ≥ 500 GitHub / Gitlab stars or other non-maintainer activity to back it up.
-  - If things previously mentioned aren't available, then we measure popularity based of search results.
-- Adult content, piracy & gambling related sites / apps / services.
-  - Mostly okay here, **but** it cannot break **any** of the "not approved" bullet points.
-  - These services are **always** researched from any "not approved" points before accepting.
-- App / site being too vague.
-  - *Examples (not limited to):* site only has login page and nothing else, search results don't answer what that app / site is either.
-  - It's not enough that you tell what the app / site does, we need at least **some** evidence from the web. Otherwise it counts to *shady apps / sites* category.
-- Ad networks.
-  - Most of them belongs to *shady apps / sites* category, because often these services violate privacy on other users expense and trick users for unwanted things.
-  - *Exception:* ad networks with ethical standpoints (minimal or no user tracking / data collecting, no dark patterns, high advertiser monitoring etc).
 
 ### Not approved
 :x: These are never accepted to aegis-icons, **no exceptions!**
@@ -279,6 +255,8 @@ When making icons, download and use provided [templates](/_templates).
 ### Colors
 *Go these instructions in order:*
 
+**This is a fork, you can find the colors used by us [here](https://github.com/Delta-Icons/android/blob/master/.github/CONTRIBUTING.md#colors)**
+
 - **Never use white as background** (abbreviation: *BG*), white is always preserved for logo (a.k.a. *foreground*, short for *FG*).
 - Don't use random color.
 - Don't use gradients, use solid colors.
@@ -452,7 +430,7 @@ Instead, PNGs are only made when noticing problems with SVG on Aegis and are add
 > **Warning** \
 > Please do not submit PRs that make changes to JSON files!
 
-Because of the JSON update process, currently only the maintainer ([@krisu5](https://github.com/krisu5)) is allowed to make changes to JSONs.
+Because of the JSON update process, currently only the maintainer ([@GitGitro](https://github.com/GitGitro)) is allowed to make changes to JSONs.
 
 If you want to suggest a change related to JSONs, [make a issue instead](https://github.com/Delta-Icons/aegis-icons/issues/new/choose) (choose "Other").
 
@@ -536,24 +514,20 @@ NOTE: remember to link this section in the TOC when ready.
 -->
 
 ## Issue guidelines
-*(Issue guidelines was last updated on: 2022-10-26)*
+*(Issue guidelines was last updated on: 2024-10-05)*
 
 1. App / site related requests has to **have Aegis-compatible 2FA support** one way or another, this project does not make icons outside of Aegis usage.
-   - Don't lie, we always double-check if requested service has 2FA support. You can add proof for the existence of Aegis-compatible 2FA to the issue form's "Proof of the Aegis-compatible 2FA" section.
      - For the similar icons for general purpose, check out [Simple Icons](https://simpleicons.org/) instead.
 2. **Check that icon you're about to request doesn't [already exist](https://delta-icons.github.io/)** or opened / closed in the [issues](https://github.com/Delta-Icons/aegis-icons/issues).
-   - Icon packs are updated monthly, not every time a new icon is created ([see the pack releases](https://github.com/Delta-Icons/aegis-icons/releases)). Icons created after the latest pack update are downloadable on [the website](https://delta-icons.github.io/).
+   - Icon packs are updated (mostly) monthly, not every time a new icon is created ([see the pack releases](https://github.com/Delta-Icons/aegis-icons/releases)). Icons created after the latest pack update are downloadable on [the website](https://delta-icons.github.io/).
 3. Read the issue form **carefully** and **follow the instructions.**
-4. Don't open **more then 5 icon request issues** at the same time.
-   - You can request more after **all** of your current requests are filled.
-5. Aegis-icons can reject any icon request for any reason, but most of the requests gets filled. Usually we do provide explanation and possibly alternative option if we reject the request.
+4. Aegis-icons can reject any icon request for any reason, but most of the requests gets filled. Usually we do provide explanation and possibly alternative option if we reject the request.
    - *Possible reasons for rejections (among others):*
      - App / site not offering Aegis supported 2FA in the first place.
-     - Forum not popular enough (forum software related icon is the alternative).
      - No high quality logo resources available.
    - **[More info](#icon-acceptability-criteria)** about **approved & unapproved types of apps / sites.**
-6. If you have question or miscellaneous suggestion, check out [FAQ](FAQ.md) first.
-7. Be respectful to the maintainers and contributers.
+5. If you have question or miscellaneous suggestion, check out [FAQ](FAQ.md) first.
+6. Be respectful to the maintainers and contributers.
 
 ## Footnotes
 *Here's all the footnotes:*
