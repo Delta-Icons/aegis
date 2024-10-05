@@ -3819,6 +3819,13 @@
             ]
         },
         {
+            "filename": "icons/1_Primary/Proxy-Cheap.svg",
+            "category": null,
+            "issuer": [
+                "Proxy-Cheap"
+            ]
+        },
+        {
             "filename": "icons/1_Primary/Prusa.svg",
             "category": null,
             "issuer": [
@@ -5373,6 +5380,13 @@
             ]
         },
         {
+            "filename": "icons/1_Primary/Wallos.svg",
+            "category": null,
+            "issuer": [
+                "Wallos"
+            ]
+        },
+        {
             "filename": "icons/1_Primary/Wargaming.net.svg",
             "category": null,
             "issuer": [
@@ -5440,6 +5454,13 @@
             "category": null,
             "issuer": [
                 "Webmin"
+            ]
+        },
+        {
+            "filename": "icons/1_Primary/Webshare.svg",
+            "category": null,
+            "issuer": [
+                "Webshare"
             ]
         },
         {
