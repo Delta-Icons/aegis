@@ -67,6 +67,13 @@
             ]
         },
         {
+            "filename": "icons/1_Primary/AMP.svg",
+            "category": null,
+            "issuer": [
+                "AMP"
+            ]
+        },
+        {
             "filename": "icons/1_Primary/ANY.RUN.svg",
             "category": null,
             "issuer": [
@@ -239,6 +246,13 @@
             "category": null,
             "issuer": [
                 "Apple"
+            ]
+        },
+        {
+            "filename": "icons/1_Primary/Appodeal.svg",
+            "category": null,
+            "issuer": [
+                "Appodeal"
             ]
         },
         {
@@ -610,6 +624,13 @@
             "category": null,
             "issuer": [
                 "Boomi"
+            ]
+        },
+        {
+            "filename": "icons/1_Primary/Boost Mobile.svg",
+            "category": null,
+            "issuer": [
+                "Boost Mobile"
             ]
         },
         {
@@ -1180,6 +1201,13 @@
             ]
         },
         {
+            "filename": "icons/1_Primary/DeviantArt.svg",
+            "category": null,
+            "issuer": [
+                "DeviantArt"
+            ]
+        },
+        {
             "filename": "icons/1_Primary/DigiConnect.svg",
             "category": null,
             "issuer": [
@@ -1254,6 +1282,13 @@
             "category": null,
             "issuer": [
                 "DocuSign"
+            ]
+        },
+        {
+            "filename": "icons/1_Primary/Dodo.svg",
+            "category": null,
+            "issuer": [
+                "Dodo"
             ]
         },
         {
@@ -1394,6 +1429,13 @@
             "category": null,
             "issuer": [
                 "Evernote"
+            ]
+        },
+        {
+            "filename": "icons/1_Primary/Everyday Rewards.svg",
+            "category": null,
+            "issuer": [
+                "Everyday Rewards"
             ]
         },
         {
@@ -1635,6 +1677,13 @@
             ]
         },
         {
+            "filename": "icons/1_Primary/Flybuys.svg",
+            "category": null,
+            "issuer": [
+                "Flybuys"
+            ]
+        },
+        {
             "filename": "icons/1_Primary/Focusrite.svg",
             "category": null,
             "issuer": [
@@ -1814,6 +1863,13 @@
             "category": null,
             "issuer": [
                 "Global Entry"
+            ]
+        },
+        {
+            "filename": "icons/1_Primary/Glovo.svg",
+            "category": null,
+            "issuer": [
+                "Glovo"
             ]
         },
         {
@@ -2314,6 +2370,13 @@
             ]
         },
         {
+            "filename": "icons/1_Primary/Instant Gaming.svg",
+            "category": null,
+            "issuer": [
+                "Instant Gaming"
+            ]
+        },
+        {
             "filename": "icons/1_Primary/Internxt.svg",
             "category": null,
             "issuer": [
@@ -2598,6 +2661,13 @@
             "category": null,
             "issuer": [
                 "Lemmy"
+            ]
+        },
+        {
+            "filename": "icons/1_Primary/Lets Do This.svg",
+            "category": null,
+            "issuer": [
+                "Lets Do This"
             ]
         },
         {
@@ -3945,6 +4015,13 @@
             ]
         },
         {
+            "filename": "icons/1_Primary/RACV.svg",
+            "category": null,
+            "issuer": [
+                "RACV"
+            ]
+        },
+        {
             "filename": "icons/1_Primary/RMIT University.svg",
             "category": null,
             "issuer": [
@@ -3963,6 +4040,13 @@
             "category": null,
             "issuer": [
                 "Rackspace Technology"
+            ]
+        },
+        {
+            "filename": "icons/1_Primary/Racq.svg",
+            "category": null,
+            "issuer": [
+                "Racq"
             ]
         },
         {
@@ -3991,6 +4075,13 @@
             "category": null,
             "issuer": [
                 "Raindrop.io"
+            ]
+        },
+        {
+            "filename": "icons/1_Primary/Raiz.svg",
+            "category": null,
+            "issuer": [
+                "Raiz"
             ]
         },
         {
@@ -4365,6 +4456,13 @@
             ]
         },
         {
+            "filename": "icons/1_Primary/Serif.svg",
+            "category": null,
+            "issuer": [
+                "Serif"
+            ]
+        },
+        {
             "filename": "icons/1_Primary/Server-Eye.svg",
             "category": null,
             "issuer": [
@@ -4411,6 +4509,13 @@
             "category": null,
             "issuer": [
                 "Shortcut"
+            ]
+        },
+        {
+            "filename": "icons/1_Primary/SideQuest.svg",
+            "category": null,
+            "issuer": [
+                "SideQuest"
             ]
         },
         {
@@ -4635,6 +4740,13 @@
             "category": null,
             "issuer": [
                 "Substack"
+            ]
+        },
+        {
+            "filename": "icons/1_Primary/Sucuri.svg",
+            "category": null,
+            "issuer": [
+                "Sucuri"
             ]
         },
         {
@@ -5716,6 +5828,13 @@
             ]
         },
         {
+            "filename": "icons/1_Primary/Zillow.svg",
+            "category": null,
+            "issuer": [
+                "Zillow"
+            ]
+        },
+        {
             "filename": "icons/1_Primary/Zipmex.svg",
             "category": null,
             "issuer": [
@@ -5835,6 +5954,13 @@
             ]
         },
         {
+            "filename": "icons/1_Primary/hCaptcha.svg",
+            "category": null,
+            "issuer": [
+                "hCaptcha"
+            ]
+        },
+        {
             "filename": "icons/1_Primary/hi.svg",
             "category": null,
             "issuer": [
@@ -5846,6 +5972,13 @@
             "category": null,
             "issuer": [
                 "hosting.de"
+            ]
+        },
+        {
+            "filename": "icons/1_Primary/iiNet.svg",
+            "category": null,
+            "issuer": [
+                "iiNet"
             ]
         },
         {
