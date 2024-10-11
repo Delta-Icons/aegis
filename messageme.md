@@ -3,7 +3,7 @@
 If you want to request icon(s) taken down or report [Code of Conduct violation](CODE-OF-CONDUCT.md), contact maintainer of the project ([GitGitro](https://github.com/GitGitro)) via this address:
 
 ```
-delta-aegis-icons [dot] howfr [at] silomails [dot] com
+contact [at] gitro [dot] xyz
 ```
 
 :arrow_up_small: _Remove spaces and replace_ `[at]` _with_ `@` _**and**_ `[dot]` _with_ `.`
