@@ -5905,6 +5905,20 @@
             ]
         },
         {
+            "filename": "icons/1_Primary/cgm life.svg",
+            "category": null,
+            "issuer": [
+                "cgm life"
+            ]
+        },
+        {
+            "filename": "icons/1_Primary/company bike.svg",
+            "category": null,
+            "issuer": [
+                "company bike"
+            ]
+        },
+        {
             "filename": "icons/1_Primary/deSEC.svg",
             "category": null,
             "issuer": [
@@ -6112,6 +6126,13 @@
             "category": null,
             "issuer": [
                 "sipgate"
+            ]
+        },
+        {
+            "filename": "icons/1_Primary/smtp2go.svg",
+            "category": null,
+            "issuer": [
+                "smtp2go"
             ]
         },
         {
@@ -7638,6 +7659,13 @@
             "category": null,
             "issuer": [
                 "NextDNS v1"
+            ]
+        },
+        {
+            "filename": "icons/4_Outdated/Notesnook v1.svg",
+            "category": null,
+            "issuer": [
+                "Notesnook v1"
             ]
         },
         {
