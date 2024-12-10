@@ -6080,6 +6080,13 @@
             ]
         },
         {
+            "filename": "icons/1_Primary/opensea_io.svg",
+            "category": null,
+            "issuer": [
+                "opensea_io"
+            ]
+        },
+        {
             "filename": "icons/1_Primary/pCloud.svg",
             "category": null,
             "issuer": [
@@ -6105,6 +6112,13 @@
             "category": null,
             "issuer": [
                 "postale.io"
+            ]
+        },
+        {
+            "filename": "icons/1_Primary/qlik.svg",
+            "category": null,
+            "issuer": [
+                "qlik"
             ]
         },
         {
@@ -6147,6 +6161,13 @@
             "category": null,
             "issuer": [
                 "textverified"
+            ]
+        },
+        {
+            "filename": "icons/1_Primary/torbox.svg",
+            "category": null,
+            "issuer": [
+                "torbox"
             ]
         },
         {
