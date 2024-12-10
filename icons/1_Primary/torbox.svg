@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg">
+ <circle cx="512" cy="512" r="512" style="fill:#98dc9a"/>
+ <style type="text/css">.st0{fill:#00444D;}
+	.st1{fill:#34BA90;}
+	.st2{fill:#52A153;}
+	.st3{fill:#FFFFFF;}</style>
+ <g transform="matrix(.75355 0 0 .75355 -53.158 -53.158)">
+  <polygon class="st0" points="749.99 1192 367.25 970.97 367.25 529.01 749.99 749.99" style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:26.541;stroke:#fff"/>
+  <polygon class="st1" points="956.71 630.66 1132.8 529.01 1132.8 970.97 749.99 1192 749.99 749.99 872.87 679.05" style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:26.541;stroke:#fff"/>
+  <polygon class="st2" points="749.99 749.99 367.25 529.01 749.99 308.04 1132.8 529.01" style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:26.541;stroke:#fff"/>
+  <polygon class="st3" points="956.71 630.66 931.81 799.21 1043 739.36 958.66 1057.1 952.4 851.84 839.71 915.39 872.87 679.05"/>
+ </g>
+</svg>
