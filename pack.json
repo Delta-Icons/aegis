@@ -375,6 +375,13 @@
             ]
         },
         {
+            "filename": "icons/1_Primary/Baidu AI Cloud.svg",
+            "category": null,
+            "issuer": [
+                "Baidu AI Cloud"
+            ]
+        },
+        {
             "filename": "icons/1_Primary/Barmenia.svg",
             "category": null,
             "issuer": [
@@ -823,6 +830,13 @@
             ]
         },
         {
+            "filename": "icons/1_Primary/Cat.svg",
+            "category": null,
+            "issuer": [
+                "Cat"
+            ]
+        },
+        {
             "filename": "icons/1_Primary/Chaturbate.svg",
             "category": null,
             "issuer": [
@@ -953,6 +967,13 @@
             "category": null,
             "issuer": [
                 "Coinbase"
+            ]
+        },
+        {
+            "filename": "icons/1_Primary/Comodo.svg",
+            "category": null,
+            "issuer": [
+                "Comodo"
             ]
         },
         {
@@ -1821,6 +1842,13 @@
             "category": null,
             "issuer": [
                 "Gentoo Linux"
+            ]
+        },
+        {
+            "filename": "icons/1_Primary/GetResponse.svg",
+            "category": null,
+            "issuer": [
+                "GetResponse"
             ]
         },
         {
@@ -2832,6 +2860,13 @@
             ]
         },
         {
+            "filename": "icons/1_Primary/MailerLite.svg",
+            "category": null,
+            "issuer": [
+                "MailerLite"
+            ]
+        },
+        {
             "filename": "icons/1_Primary/Mailfence.svg",
             "category": null,
             "issuer": [
@@ -2937,6 +2972,13 @@
             ]
         },
         {
+            "filename": "icons/1_Primary/Meraki cisco.svg",
+            "category": null,
+            "issuer": [
+                "Meraki cisco"
+            ]
+        },
+        {
             "filename": "icons/1_Primary/Mercado Libre.svg",
             "category": null,
             "issuer": [
@@ -2948,6 +2990,13 @@
             "category": null,
             "issuer": [
                 "Meta"
+            ]
+        },
+        {
+            "filename": "icons/1_Primary/Metamask.svg",
+            "category": null,
+            "issuer": [
+                "Metamask"
             ]
         },
         {
@@ -3074,6 +3123,13 @@
             "category": null,
             "issuer": [
                 "MyHeritage"
+            ]
+        },
+        {
+            "filename": "icons/1_Primary/N8n.svg",
+            "category": null,
+            "issuer": [
+                "N8n"
             ]
         },
         {
@@ -3585,6 +3641,13 @@
             "category": null,
             "issuer": [
                 "Palo Alto Networks"
+            ]
+        },
+        {
+            "filename": "icons/1_Primary/Panda Security.svg",
+            "category": null,
+            "issuer": [
+                "Panda Security"
             ]
         },
         {
@@ -5100,6 +5163,13 @@
             ]
         },
         {
+            "filename": "icons/1_Primary/Travelers.svg",
+            "category": null,
+            "issuer": [
+                "Travelers"
+            ]
+        },
+        {
             "filename": "icons/1_Primary/Trello.svg",
             "category": null,
             "issuer": [
@@ -5181,6 +5251,13 @@
             "category": null,
             "issuer": [
                 "Twilio"
+            ]
+        },
+        {
+            "filename": "icons/1_Primary/Twingate.svg",
+            "category": null,
+            "issuer": [
+                "Twingate"
             ]
         },
         {
@@ -5863,6 +5940,13 @@
             ]
         },
         {
+            "filename": "icons/1_Primary/afternic.svg",
+            "category": null,
+            "issuer": [
+                "afternic"
+            ]
+        },
+        {
             "filename": "icons/1_Primary/authentik.svg",
             "category": null,
             "issuer": [
@@ -5993,6 +6077,13 @@
             "category": null,
             "issuer": [
                 "iiNet"
+            ]
+        },
+        {
+            "filename": "icons/1_Primary/inbox.lv.svg",
+            "category": null,
+            "issuer": [
+                "inbox.lv"
             ]
         },
         {
