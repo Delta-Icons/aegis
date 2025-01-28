@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg">
+ <circle cx="512" cy="512" r="512" style="fill:#9abeff"/>
+ <g transform="matrix(5.4701 0 0 5.4701 256 283.9)" style="fill:#fff">
+  <path d="m23.6 11.8a11.8 11.8 0 1 1-23.6 0 11.8 11.8 0 0 1 23.6 0z" fill="#0868b2" style="fill:#fff"/>
+  <path d="m46.4 0a41.2 41.2 0 0 0-41.2 41.3v0.3h23.6v-0.6c0-9.8 7.8-17.7 17.6-17.8v-23.2z" fill="#7bb1e0" style="fill:#fff"/>
+  <path d="m93.6 12.2a11.8 11.8 0 1 1-23.6 0 11.8 11.8 0 0 1 23.6 0z" fill="#0868b2" style="fill:#fff"/>
+  <path d="m46.5 0a41.2 41.2 0 0 1 41.2 41.3v0.3h-23.6v-0.6c0-9.8-7.8-17.7-17.6-17.8z" fill="#5588c7" style="fill:#fff"/>
+  <path d="m46.4 83.4a41.2 41.2 0 0 1-41.2-41.4v-0.3h23.6v0.7c0 9.8 7.8 17.7 17.6 17.8v23z" fill="#272a67" style="fill:#fff"/>
+  <path d="m46.5 83.4a41.2 41.2 0 0 0 41.3-41.4v-0.3h-23.8v0.7c0 9.8-7.8 17.7-17.6 17.8v23z" fill="#0868b2" style="fill:#fff"/>
+ </g>
+</svg>
