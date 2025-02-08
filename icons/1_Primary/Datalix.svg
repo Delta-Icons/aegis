@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg">
+ <circle cx="512" cy="512" r="512" style="fill:#98dc9a"/>
+ <circle cx="534.62" cy="433.32" r="124.88" style="fill:#fff;stroke-linejoin:round;stroke-width:23.786"/>
+ <circle cx="534.62" cy="433.32" r="80.737" style="fill:#98dc9a;stroke-linejoin:round;stroke-width:23.786"/>
+ <circle cx="366.82" cy="685.59" r="77.098" style="fill:#fff;stroke-linejoin:round;stroke-width:23.786"/>
+ <circle cx="366.82" cy="685.59" r="32.546" style="fill:#98dc9a;stroke-linejoin:round;stroke-width:23.786"/>
+ <circle cx="692.7" cy="594.8" r="61.873" style="fill:#fff;stroke-linejoin:round;stroke-width:23.786"/>
+ <circle cx="692.7" cy="594.8" r="20.75" style="fill:#98dc9a;stroke-linejoin:round;stroke-width:23.786"/>
+ <path d="m595.36 523.49 52.441 50.932 23.62-37.727-46.256-39.614z" style="fill:#fff;stroke-linejoin:round;stroke-width:23.786"/>
+ <path d="m447.09 510.29-70.551 116.2 47.391 7.3102 63.906-107.67z" style="fill:#fff;stroke-linejoin:round;stroke-width:23.786"/>
+ <circle cx="328.25" cy="320.14" r="58.825" style="fill:#fff;stroke-linejoin:round;stroke-width:23.786"/>
+ <circle cx="328.25" cy="320.14" r="15.468" style="fill:#98dc9a;stroke-linejoin:round;stroke-width:23.786"/>
+</svg>
