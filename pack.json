@@ -1166,6 +1166,13 @@
             ]
         },
         {
+            "filename": "icons/1_Primary/Datalix.svg",
+            "category": null,
+            "issuer": [
+                "Datalix"
+            ]
+        },
+        {
             "filename": "icons/1_Primary/Datove schranky.svg",
             "category": null,
             "issuer": [
@@ -3340,6 +3347,13 @@
             "category": null,
             "issuer": [
                 "No-IP"
+            ]
+        },
+        {
+            "filename": "icons/1_Primary/NordLayer.svg",
+            "category": null,
+            "issuer": [
+                "NordLayer"
             ]
         },
         {
@@ -6143,6 +6157,13 @@
             ]
         },
         {
+            "filename": "icons/1_Primary/ngrok.svg",
+            "category": null,
+            "issuer": [
+                "ngrok"
+            ]
+        },
+        {
             "filename": "icons/1_Primary/niconico.svg",
             "category": null,
             "issuer": [
@@ -6182,6 +6203,13 @@
             "category": null,
             "issuer": [
                 "pCloud"
+            ]
+        },
+        {
+            "filename": "icons/1_Primary/paperless-ngx.svg",
+            "category": null,
+            "issuer": [
+                "paperless-ngx"
             ]
         },
         {
