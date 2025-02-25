@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg">
+ <circle cx="512" cy="512" r="512" style="fill:#8c72bd"/>
+ <g transform="translate(0 -55.424)">
+  <path d="m468.6 443.57h86.74c-18.755 87.782-18.755 170.35 0 247.72h-86.74c20.838-81.53 20.838-164.1 0-247.72z" style="fill:#fff;stroke-linecap:round;stroke-linejoin:round;stroke-width:167.22"/>
+  <path d="m362.33 443.57h86.74c30.152 93.47 21.748 175.06 0 247.72h-86.74c42.033-77.677 45.435-159.63 0-247.72z" style="fill:#fff;stroke-linecap:round;stroke-linejoin:round;stroke-width:167.22"/>
+  <path d="m256 443.57h86.74c49.715 97.064 30.601 176.69 0 247.72h-86.74c42.033-77.677 45.435-159.63 0-247.72z" style="fill:#fff;stroke-linecap:round;stroke-linejoin:round;stroke-width:167.22"/>
+  <path d="m661.67 443.57h-86.74c-30.152 93.47-21.748 175.06 0 247.72h86.74c-42.033-77.677-45.435-159.63 0-247.72z" style="fill:#fff;stroke-linecap:round;stroke-linejoin:round;stroke-width:167.22"/>
+  <path d="m768 443.57h-86.74c-45.408 101.59-30.016 179.22 0 247.72h86.74c-42.033-77.677-45.435-159.63 0-247.72z" style="fill:#fff;stroke-linecap:round;stroke-linejoin:round;stroke-width:167.22"/>
+ </g>
+</svg>
