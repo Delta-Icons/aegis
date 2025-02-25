@@ -872,10 +872,24 @@
             ]
         },
         {
+            "filename": "icons/1_Primary/Cloud 66.svg",
+            "category": null,
+            "issuer": [
+                "Cloud 66"
+            ]
+        },
+        {
             "filename": "icons/1_Primary/Cloudamo.svg",
             "category": null,
             "issuer": [
                 "Cloudamo"
+            ]
+        },
+        {
+            "filename": "icons/1_Primary/Cloudbet.svg",
+            "category": null,
+            "issuer": [
+                "Cloudbet"
             ]
         },
         {
@@ -1352,6 +1366,13 @@
             "category": null,
             "issuer": [
                 "Dropbox"
+            ]
+        },
+        {
+            "filename": "icons/1_Primary/Druide.svg",
+            "category": null,
+            "issuer": [
+                "Druide"
             ]
         },
         {
@@ -3494,6 +3515,13 @@
             "category": null,
             "issuer": [
                 "OVH"
+            ]
+        },
+        {
+            "filename": "icons/1_Primary/Obsidian Entertainment.svg",
+            "category": null,
+            "issuer": [
+                "Obsidian Entertainment"
             ]
         },
         {
