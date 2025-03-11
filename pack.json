@@ -6017,6 +6017,13 @@
             ]
         },
         {
+            "filename": "icons/1_Primary/bitget.svg",
+            "category": null,
+            "issuer": [
+                "bitget"
+            ]
+        },
+        {
             "filename": "icons/1_Primary/bunny.net.svg",
             "category": null,
             "issuer": [
@@ -6028,6 +6035,13 @@
             "category": null,
             "issuer": [
                 "buy_me_a_coffee"
+            ]
+        },
+        {
+            "filename": "icons/1_Primary/bybit.svg",
+            "category": null,
+            "issuer": [
+                "bybit"
             ]
         },
         {
