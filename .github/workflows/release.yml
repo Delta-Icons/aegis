@@ -2,7 +2,9 @@ name: Release
 run-name: Release @ Delta Aegis Icons - ${{ github.sha }}
 
 on:
-  workflow_dispatch:
+  push:
+    branches:
+      - master
 
 env:
   zipname:  delta-aegis-icons.zip
