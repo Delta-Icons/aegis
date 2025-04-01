@@ -2566,6 +2566,13 @@
             ]
         },
         {
+            "filename": "icons/1_Primary/Kbin.svg",
+            "category": null,
+            "issuer": [
+                "Kbin"
+            ]
+        },
+        {
             "filename": "icons/1_Primary/Keenetic.svg",
             "category": null,
             "issuer": [
@@ -2990,6 +2997,13 @@
             "category": null,
             "issuer": [
                 "Maxon"
+            ]
+        },
+        {
+            "filename": "icons/1_Primary/Mbin.svg",
+            "category": null,
+            "issuer": [
+                "Mbin"
             ]
         },
         {
