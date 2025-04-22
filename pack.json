@@ -2692,6 +2692,13 @@
             ]
         },
         {
+            "filename": "icons/1_Primary/LLHOST.svg",
+            "category": null,
+            "issuer": [
+                "LLHOST"
+            ]
+        },
+        {
             "filename": "icons/1_Primary/La Poste.svg",
             "category": null,
             "issuer": [
@@ -4593,6 +4600,13 @@
             "category": null,
             "issuer": [
                 "Server-Eye"
+            ]
+        },
+        {
+            "filename": "icons/1_Primary/Serverspace.svg",
+            "category": null,
+            "issuer": [
+                "Serverspace"
             ]
         },
         {
