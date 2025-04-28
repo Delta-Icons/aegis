@@ -746,6 +746,13 @@
             ]
         },
         {
+            "filename": "icons/1_Primary/Bundesagentur fur Arbeit.svg",
+            "category": null,
+            "issuer": [
+                "Bundesagentur fur Arbeit"
+            ]
+        },
+        {
             "filename": "icons/1_Primary/CAPCOM ID.svg",
             "category": null,
             "issuer": [
@@ -5317,6 +5324,13 @@
             ]
         },
         {
+            "filename": "icons/1_Primary/Tube Hosting.svg",
+            "category": null,
+            "issuer": [
+                "Tube Hosting"
+            ]
+        },
+        {
             "filename": "icons/1_Primary/Tumblr.svg",
             "category": null,
             "issuer": [
@@ -5594,6 +5608,13 @@
             "category": null,
             "issuer": [
                 "Vivaldi"
+            ]
+        },
+        {
+            "filename": "icons/1_Primary/Vodafone.svg",
+            "category": null,
+            "issuer": [
+                "Vodafone"
             ]
         },
         {
