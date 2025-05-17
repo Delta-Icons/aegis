@@ -1873,6 +1873,13 @@
             ]
         },
         {
+            "filename": "icons/1_Primary/Gcore.svg",
+            "category": null,
+            "issuer": [
+                "Gcore"
+            ]
+        },
+        {
             "filename": "icons/1_Primary/Gemini.svg",
             "category": null,
             "issuer": [
@@ -4554,6 +4561,13 @@
             ]
         },
         {
+            "filename": "icons/1_Primary/Selectel.svg",
+            "category": null,
+            "issuer": [
+                "Selectel"
+            ]
+        },
+        {
             "filename": "icons/1_Primary/Selfwealth.svg",
             "category": null,
             "issuer": [
@@ -4789,6 +4803,13 @@
             "category": null,
             "issuer": [
                 "Spring"
+            ]
+        },
+        {
+            "filename": "icons/1_Primary/Sprinthost.svg",
+            "category": null,
+            "issuer": [
+                "Sprinthost"
             ]
         },
         {
