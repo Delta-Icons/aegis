@@ -1362,6 +1362,13 @@
             ]
         },
         {
+            "filename": "icons/1_Primary/Donetick.svg",
+            "category": null,
+            "issuer": [
+                "Donetick"
+            ]
+        },
+        {
             "filename": "icons/1_Primary/DreamFactory.svg",
             "category": null,
             "issuer": [
@@ -3742,6 +3749,13 @@
             ]
         },
         {
+            "filename": "icons/1_Primary/Pangolin.svg",
+            "category": null,
+            "issuer": [
+                "Pangolin"
+            ]
+        },
+        {
             "filename": "icons/1_Primary/Parsec.svg",
             "category": null,
             "issuer": [
@@ -3830,6 +3844,13 @@
             "category": null,
             "issuer": [
                 "Philips"
+            ]
+        },
+        {
+            "filename": "icons/1_Primary/Pingvin.svg",
+            "category": null,
+            "issuer": [
+                "Pingvin"
             ]
         },
         {
