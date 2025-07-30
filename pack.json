@@ -3903,6 +3903,13 @@
             ]
         },
         {
+            "filename": "icons/1_Primary/Pixiv.svg",
+            "category": null,
+            "issuer": [
+                "Pixiv"
+            ]
+        },
+        {
             "filename": "icons/1_Primary/PlanetScale.svg",
             "category": null,
             "issuer": [
@@ -4950,6 +4957,13 @@
             "category": null,
             "issuer": [
                 "Stripe"
+            ]
+        },
+        {
+            "filename": "icons/1_Primary/SubscribeStar.svg",
+            "category": null,
+            "issuer": [
+                "SubscribeStar"
             ]
         },
         {
