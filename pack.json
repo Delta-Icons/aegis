@@ -3693,6 +3693,13 @@
             ]
         },
         {
+            "filename": "icons/1_Primary/Openrouter Ai.svg",
+            "category": null,
+            "issuer": [
+                "Openrouter Ai"
+            ]
+        },
+        {
             "filename": "icons/1_Primary/Opera.svg",
             "category": null,
             "issuer": [
@@ -4649,6 +4656,13 @@
             "category": null,
             "issuer": [
                 "Sendy"
+            ]
+        },
+        {
+            "filename": "icons/1_Primary/Senko Digital.svg",
+            "category": null,
+            "issuer": [
+                "Senko Digital"
             ]
         },
         {
@@ -5797,6 +5811,13 @@
             "category": null,
             "issuer": [
                 "Wasabi"
+            ]
+        },
+        {
+            "filename": "icons/1_Primary/Waterfox.svg",
+            "category": null,
+            "issuer": [
+                "Waterfox"
             ]
         },
         {
