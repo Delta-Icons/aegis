@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg">
+ <circle cx="512" cy="512" r="512" style="fill:#bd9aff"/>
+ <path d="m670.59 291.96-117.92 440.07h86.483l117.92-440.07z" style="fill:#fff;stroke-linecap:round;stroke-linejoin:round;stroke-width:28.027"/>
+ <path d="m488.86 291.96-117.92 440.07h86.483l117.92-440.07z" style="fill:#fff;stroke-linecap:round;stroke-linejoin:round;stroke-width:28.027"/>
+ <circle cx="318.93" cy="445.88" r="52.011" style="fill:#fff;stroke-linecap:round;stroke-linejoin:round;stroke-width:28.027"/>
+ <circle cx="318.93" cy="631.7" r="52.011" style="fill:#fff;stroke-linecap:round;stroke-linejoin:round;stroke-width:28.027"/>
+</svg>
