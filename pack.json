@@ -1971,6 +1971,13 @@
             ]
         },
         {
+            "filename": "icons/1_Primary/Gmail.svg",
+            "category": null,
+            "issuer": [
+                "Gmail"
+            ]
+        },
+        {
             "filename": "icons/1_Primary/GoDaddy.svg",
             "category": null,
             "issuer": [
@@ -5671,6 +5678,13 @@
             "category": null,
             "issuer": [
                 "Vauld"
+            ]
+        },
+        {
+            "filename": "icons/1_Primary/Vaultwarden.svg",
+            "category": null,
+            "issuer": [
+                "Vaultwarden"
             ]
         },
         {
