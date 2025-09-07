@@ -592,10 +592,10 @@
             ]
         },
         {
-            "filename": "icons/1_Primary/Blockstream Green.svg",
+            "filename": "icons/1_Primary/BlockStream.svg",
             "category": null,
             "issuer": [
-                "Blockstream Green"
+                "BlockStream"
             ]
         },
         {
@@ -4096,6 +4096,34 @@
             "category": null,
             "issuer": [
                 "Proton"
+            ]
+        },
+        {
+            "filename": "icons/1_Primary/ProtonCalendar.svg",
+            "category": null,
+            "issuer": [
+                "ProtonCalendar"
+            ]
+        },
+        {
+            "filename": "icons/1_Primary/ProtonDrive.svg",
+            "category": null,
+            "issuer": [
+                "ProtonDrive"
+            ]
+        },
+        {
+            "filename": "icons/1_Primary/ProtonMail.svg",
+            "category": null,
+            "issuer": [
+                "ProtonMail"
+            ]
+        },
+        {
+            "filename": "icons/1_Primary/ProtonVpn.svg",
+            "category": null,
+            "issuer": [
+                "ProtonVpn"
             ]
         },
         {
@@ -7771,6 +7799,13 @@
             "category": null,
             "issuer": [
                 "Blizzard"
+            ]
+        },
+        {
+            "filename": "icons/4_Outdated/Blockstream Green.svg",
+            "category": null,
+            "issuer": [
+                "Blockstream Green"
             ]
         },
         {
