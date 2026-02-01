@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg">
+ <circle cx="512" cy="512" r="512" style="fill:#98dc9a"/>
+ <g transform="matrix(25.301 0 0 25.301 208.39 208.39)" fill="none" stroke="#403a3a" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" style="fill:none;stroke:#fff">
+  <path d="m14 3v4a1 1 0 0 0 1 1h4" style="fill:none;stroke:#fff"/>
+  <path d="m17 21h-10a2 2 0 0 1-2-2v-14a2 2 0 0 1 2-2h7l5 5v11a2 2 0 0 1-2 2zm-8-12h1m-1 4h6m-6 4h6" style="fill:none;stroke:#fff"/>
+ </g>
+</svg>

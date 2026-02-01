@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg">
+ <circle cx="512" cy="512" r="512" style="fill:#f8c18c"/>
+ <style>@media (prefers-color-scheme: light) { :root { filter: none; } }
+@media (prefers-color-scheme: dark) { :root { filter: none; } }</style>
+ <rect x="367.13" y="256" width="289.74" height="512" ry="88.532" style="fill:#fff"/>
+ <rect x="423.47" y="313.58" width="177.06" height="396.85" ry="88.532" style="fill:#f8c18c"/>
+ <circle cx="512" cy="512" r="45.195" style="fill:#fff"/>
+</svg>

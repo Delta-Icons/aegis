@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg">
+ <circle cx="512" cy="512" r="512" style="fill:#73ada4"/>
+ <g transform="matrix(8.5333 0 0 8.5333 290.13 256)">
+  <g class="transition-colors text-dark-primary-acc" fill="currentColor">
+   <path d="m0 15 26-15 9.14 5.26-26 15z" opacity=".5" style="fill:#fff;opacity:1"/>
+   <path d="m0 45v-30l9.14 5.26v19.46l16.86 9.74v10.54z" style="fill:#fff"/>
+   <path d="m26 60v-10.54l26-15v10.54z" opacity=".75" style="fill:#fff;opacity:1"/>
+   <path d="m42.86 20.26v14l9.14-5.26v-14z" opacity=".75" style="fill:#fff;opacity:1"/>
+   <path d="m39.82 8-9.14 5.26 12.18 7 9.14-5.26z" opacity=".5" style="fill:#fff;opacity:1"/>
+   <path d="m0 15 26-15 9.14 5.26-26 15z" opacity=".5" style="fill:#fff;opacity:1"/>
+   <path d="m0 45v-30l9.14 5.26v19.46l16.86 9.74v10.54z" style="fill:#fff"/>
+   <path d="m26 60v-10.54l26-15v10.54z" opacity=".75" style="fill:#fff;opacity:1"/>
+   <path d="m42.86 20.26v14l9.14-5.26v-14z" opacity=".75" style="fill:#fff;opacity:1"/>
+   <path d="m39.82 8-9.14 5.26 12.18 7 9.14-5.26z" opacity=".5" style="fill:#fff;opacity:1"/>
+   <path d="m0 15 26-15 9.14 5.26-26 15z" opacity=".5" style="fill:#fff;opacity:1"/>
+   <path d="m0 45v-30l9.14 5.26v19.46l16.86 9.74v10.54z" style="fill:#fff"/>
+   <path d="m26 60v-10.54l26-15v10.54z" opacity=".75" style="fill:#fff;opacity:1"/>
+   <path d="m42.86 20.26v14l9.14-5.26v-14z" opacity=".75" style="fill:#fff;opacity:1"/>
+   <path d="m39.82 8-9.14 5.26 12.18 7 9.14-5.26z" opacity=".5" style="fill:#fff;opacity:1"/>
+  </g>
+ </g>
+</svg>
