@@ -3392,6 +3392,13 @@
             ]
         },
         {
+            "filename": "icons/1_Primary/Nginx Proxy Manager.svg",
+            "category": null,
+            "issuer": [
+                "Nginx Proxy Manager"
+            ]
+        },
+        {
             "filename": "icons/1_Primary/Niagahoster.svg",
             "category": null,
             "issuer": [
@@ -3788,6 +3795,13 @@
             "category": null,
             "issuer": [
                 "Pangolin"
+            ]
+        },
+        {
+            "filename": "icons/1_Primary/Papra.svg",
+            "category": null,
+            "issuer": [
+                "Papra"
             ]
         },
         {
@@ -5569,6 +5583,13 @@
             ]
         },
         {
+            "filename": "icons/1_Primary/Ultra CC.svg",
+            "category": null,
+            "issuer": [
+                "Ultra CC"
+            ]
+        },
+        {
             "filename": "icons/1_Primary/Unitrends.svg",
             "category": null,
             "issuer": [
@@ -6542,6 +6563,13 @@
             ]
         },
         {
+            "filename": "icons/1_Primary/sure.am.svg",
+            "category": null,
+            "issuer": [
+                "sure.am"
+            ]
+        },
+        {
             "filename": "icons/1_Primary/textverified.svg",
             "category": null,
             "issuer": [
@@ -6581,6 +6609,13 @@
             "category": null,
             "issuer": [
                 "woelkli"
+            ]
+        },
+        {
+            "filename": "icons/1_Primary/zerobyte.svg",
+            "category": null,
+            "issuer": [
+                "zerobyte"
             ]
         },
         {
