@@ -255,7 +255,7 @@ When making icons, download and use provided [templates](/_templates).
 ### Colors
 *Go these instructions in order:*
 
-**This is a fork, you can find the colors used by us [here](https://github.com/Delta-Icons/android/blob/master/.github/CONTRIBUTING.md#colors)**
+**This is a fork, you can find the colors used by us [here](https://github.com/Delta-Icons/android/blob/master/CONTRIBUTING.md#colors)**
 
 - **Never use white as background** (abbreviation: *BG*), white is always preserved for logo (a.k.a. *foreground*, short for *FG*).
 - Don't use random color.
