@@ -1663,6 +1663,13 @@
             ]
         },
         {
+            "filename": "icons/1_Primary/Feedly.svg",
+            "category": null,
+            "issuer": [
+                "Feedly"
+            ]
+        },
+        {
             "filename": "icons/1_Primary/FetLife.svg",
             "category": null,
             "issuer": [
@@ -2164,6 +2171,13 @@
             "category": null,
             "issuer": [
                 "HashiCorp"
+            ]
+        },
+        {
+            "filename": "icons/1_Primary/Hatena.svg",
+            "category": null,
+            "issuer": [
+                "Hatena"
             ]
         },
         {
@@ -3151,6 +3165,13 @@
             "category": null,
             "issuer": [
                 "Misskey"
+            ]
+        },
+        {
+            "filename": "icons/1_Primary/Mistral.svg",
+            "category": null,
+            "issuer": [
+                "Mistral"
             ]
         },
         {
@@ -4897,6 +4918,13 @@
             ]
         },
         {
+            "filename": "icons/1_Primary/SpaceXSI.svg",
+            "category": null,
+            "issuer": [
+                "SpaceXSI"
+            ]
+        },
+        {
             "filename": "icons/1_Primary/Spaceship.svg",
             "category": null,
             "issuer": [
@@ -6028,6 +6056,13 @@
             "category": null,
             "issuer": [
                 "Wyze"
+            ]
+        },
+        {
+            "filename": "icons/1_Primary/X.svg",
+            "category": null,
+            "issuer": [
+                "X"
             ]
         },
         {
